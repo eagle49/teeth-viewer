@@ -1,0 +1,18 @@
+.Viewer {
+    margin: 30px 0;
+}
+
+button {
+    margin-right: 20px!important;
+}
+
+canvas {
+    touch-action: none;
+}
+
+.progress-bar {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: -34px;
+    margin-bottom: 10px;
+}
